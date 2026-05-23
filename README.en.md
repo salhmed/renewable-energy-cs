@@ -1,6 +1,7 @@
 # Solar, Wind and Battery Sizing
 
-Official version: [README.md](README.md) in French
+Official version: [README.md](README.md) in French  
+Portuguese version: [README.pt.md](README.pt.md)
 
 ## Goal
 
