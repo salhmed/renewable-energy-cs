@@ -1,0 +1,16 @@
+Caracteriscs of the eolienne : 
+
+Wind speed (m/s)	Power (kW)
+1	0
+2	5
+3	10
+4	17
+5	25
+6	34
+7	49
+8	63
+9	80
+10	100
+11	100
+12	100
+20	100
